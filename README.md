@@ -1,5 +1,3 @@
-# Enunciado de lo trabajo de Redis
-
 # Trabajo: Aplicación en Python con Redis
 
 ## Descripción
